@@ -1,5 +1,35 @@
 # integration-tests-http
 
+## 1.0.15
+
+### Patch Changes
+
+- [#12516](https://github.com/medusajs/medusa/pull/12516) [`5cd4ff6fe75c6be4ac33820a2e22654fc2508b4e`](https://github.com/medusajs/medusa/commit/5cd4ff6fe75c6be4ac33820a2e22654fc2508b4e) Thanks [@thetutlage](https://github.com/thetutlage)! - test: remove snapshots usage
+
+- Updated dependencies [[`85d2b3c992cf361a9a18a14659484c57f4923197`](https://github.com/medusajs/medusa/commit/85d2b3c992cf361a9a18a14659484c57f4923197)]:
+  - @medusajs/utils@2.8.3
+  - @medusajs/medusa@2.8.3
+  - @medusajs/modules-sdk@2.8.3
+  - @medusajs/test-utils@2.8.3
+  - @medusajs/core-flows@2.8.3
+  - @medusajs/api-key@2.8.3
+  - @medusajs/auth@2.8.3
+  - @medusajs/cache-inmemory@2.8.3
+  - @medusajs/customer@2.8.3
+  - @medusajs/event-bus-local@2.8.3
+  - @medusajs/fulfillment@2.8.3
+  - @medusajs/inventory@2.8.3
+  - @medusajs/pricing@2.8.3
+  - @medusajs/product@2.8.3
+  - @medusajs/promotion@2.8.3
+  - @medusajs/fulfillment-manual@2.8.3
+  - @medusajs/region@2.8.3
+  - @medusajs/stock-location@2.8.3
+  - @medusajs/store@2.8.3
+  - @medusajs/tax@2.8.3
+  - @medusajs/user@2.8.3
+  - @medusajs/workflow-engine-inmemory@2.8.3
+
 ## 1.0.14
 
 ### Patch Changes

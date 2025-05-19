@@ -1,5 +1,14 @@
 # @medusajs/index
 
+## 2.8.3
+
+### Patch Changes
+
+- [#12528](https://github.com/medusajs/medusa/pull/12528) [`ac49eb9a6c4ba0bd82b146f465790fd4546701c9`](https://github.com/medusajs/medusa/commit/ac49eb9a6c4ba0bd82b146f465790fd4546701c9) Thanks [@adrien2p](https://github.com/adrien2p)! - Typo/index logs
+
+- Updated dependencies []:
+  - @medusajs/framework@2.8.3
+
 ## 2.8.2
 
 ### Patch Changes

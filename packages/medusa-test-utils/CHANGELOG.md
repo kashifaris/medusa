@@ -1,5 +1,13 @@
 # Change Log
 
+## 2.8.3
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/medusa@2.8.3
+  - @medusajs/framework@2.8.3
+
 ## 2.8.2
 
 ### Patch Changes
